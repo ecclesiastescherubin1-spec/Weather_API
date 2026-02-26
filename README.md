@@ -1,5 +1,4 @@
-# Weather_API
-# Weather Forcast API
+# Weather Forecast API
 
 Spring Boot REST API for uploading weather observations from CSV and querying historical weather data.
 
